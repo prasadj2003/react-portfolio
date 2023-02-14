@@ -10,6 +10,6 @@
 
 
 > Here's how it looks.
-
+![home page image](/src/assets/images/image-1.png "home page")
 
 
