@@ -8,6 +8,5 @@
 - [x] useful javascriptlibraries 
 - [x] most important of all handling a somewhat big project 😅
 
-<br/>
 > Here's how it looks.
 
