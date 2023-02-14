@@ -9,5 +9,5 @@
 - [x] most important of all handling a somewhat big project 😅
 
 <br/>
-> here's how it looks
+>here's how it looks
 
