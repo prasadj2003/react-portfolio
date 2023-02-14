@@ -2,7 +2,7 @@
 
 ## this is a portfolio website built using react ##
 
-**Things Learnt **
+**Things Learnt**
 -[x] power of scss
 -[x] different npm libraries
 -[x] react hooks
