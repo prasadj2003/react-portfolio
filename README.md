@@ -8,6 +8,8 @@
 - [x] useful javascriptlibraries 
 - [x] most important of all handling a somewhat big project 😅.
 
+&nbsp;
+
 
 > Here's how the home page looks.
 ![home page image](/src/assets/images/image-1.png "home page")
