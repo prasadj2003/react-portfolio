@@ -7,3 +7,7 @@
 - [x] react useState and useEffect
 - [x] useful javascriptlibraries 
 - [x] most important of all handling a somewhat big project 😅
+
+<br/>
+> here's how it looks
+
