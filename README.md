@@ -20,3 +20,6 @@
 ![contact page](/src/assets/images/img-3.png "contact page")
 
 
+ :memo: **Note:** this website has not been deployed yet 😅 as I am struggling with deployment 😠. If anyone can help me out please feel free to contact. 
+
+
