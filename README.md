@@ -6,8 +6,10 @@
 - [x] react hooks
 - [x] react useState and useEffect
 - [x] useful javascriptlibraries 
-- [x] most important of all handling a somewhat big project 😅
+- [x] most important of all handling a somewhat big project 😅.
 
 
 > Here's how it looks.
+
+
 
