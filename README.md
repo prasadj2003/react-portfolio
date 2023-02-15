@@ -13,7 +13,7 @@
 
 
 > Here's how the home page looks.
-![home page image](/src/assets/images/image-1.png "home page")
+![home page image](/src/assets/images/ss-1.png "home page")
 
 
 > this is the about page.
