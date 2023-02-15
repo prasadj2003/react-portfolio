@@ -6,7 +6,7 @@
 - [x] scss
 - [x] react hooks
 - [x] react useState and useEffect
-- [x] useful javascriptlibraries 
+- [x] useful javaScript libraries 
 - [x] most important of all handling a somewhat big project 😅.
 
 &nbsp;
