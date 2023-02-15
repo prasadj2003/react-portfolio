@@ -3,6 +3,7 @@
 ## this is a portfolio website built using react ##
 
 **Things Learnt**
+- [x] scss
 - [x] react hooks
 - [x] react useState and useEffect
 - [x] useful javascriptlibraries 
@@ -24,6 +25,6 @@
 &nbsp;
 
 
- :memo: **Note:** this website has not been deployed yet 😅 as I am struggling with deployment 😠. If anyone can help me out please feel free to contact. 
+ :memo: **Note:** this website has not been deployed yet but will be deployed in future as a plugin used in building app requires GreenSock membership😅  
 
 
