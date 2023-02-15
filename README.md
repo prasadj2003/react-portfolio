@@ -25,6 +25,6 @@
 &nbsp;
 
 
- :memo: **Note:** this website has not been deployed yet but will be deployed in future as a plugin used in building app requires GreenSock membership😅  
+ :memo: **Note:** the site is deployd and live. consider starring the repo if you liked my portfolio.  
 
 
