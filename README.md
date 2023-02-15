@@ -25,6 +25,6 @@
 &nbsp;
 
 
- :memo: **Note:** the site is deployd and live. consider starring the repo if you liked my portfolio.  
+ :memo: **Note:** the site is deployed and live. consider starring the repo if you liked my portfolio.  
 
 
